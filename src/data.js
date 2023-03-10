@@ -67,7 +67,7 @@ export const projects = [
       name: "MySQL , Oracle and Firebase",
     },
     {
-      name: "React",
+      name: "MERN Stack",
     },
     {
       name: "HTML, CSS and Javascript",
